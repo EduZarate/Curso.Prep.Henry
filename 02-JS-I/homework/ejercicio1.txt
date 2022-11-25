@@ -1,0 +1,15 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables -->  Las variables son un espacio en memoria, las mismas se utilizan para guardar datos e información.  Lo más común es compararlas con una caja, donde podremos poner una cosa, y solo una.
+
+	* Strings --> En consonancia con lo dicho anteriormente de las variables, en ellas dijimos que se pueden almacenar datos. Estos datos que guardamos en las variables pueden clasificarse en varios tipos. Uno de estos tipos son los Strings, o cadenas de caracteres, los cuales son conformados precisamente por una serie de caracteres y son fáciles de distinguir ya que se colocan siempre entre comillas, dobles o simples. 
+
+	* Funciones (argumentos, `return`) --> Las funciones son muy útiles ya que permiten reutilizar código, que de otra manera se tornaría muy repetitivo, ocupando recursos innecesariamente. Las funciones pueden hacer uso (aunque no necesariamente) de argumentos, los cuales pueden ser variables que serán manipulados dentro del bloque de código. Hay tres formas de declarar funciones, una de ellas mediante el nombre, la otra cargando la información resultante de la función a una variable, y las arrow functions. 
+        Las funciones pueden o no devolver algo, en caso de que así lo hagan lo harán mediante la palabra reservada return y las expresiones requeridas.
+
+	* Declaraciones `if` --> Las declaraciones "if" forman parte de las estructuras condicionales, que nos permiten manejar el flujo del código dependiendo de comparaciones lógicas que se planteen. Las mismas comienzan con el mencionado if, luego la comparación lógica, que en caso de ser verdadera se cumplirá la primera condición, sino, lo hará con el siguiente if else que pueda llegar a haber, o finalmente se llevaría a cabo la condición que se encuentre dentro del "else". 
+
+	* Valores booleanos (`true`, `false`) --> Los valores booleanos son aquellos en los cuales se tiene sí o sí, un solo valor; que puede ser verdadero, o falso. Se relaciona, por ejemplo, con el 0 (apagado) o el 1 (encendido). Dentro de esta lógica se encuentra la disyunción (||), o la conjunción (&) que nos servirá para determinar el valor que se obtendrá con las posibles interrelaciones entre estos valores. 
+        Estos valores nos servirán, como mencionabamos en el punto anterior, a direccionar el flujo de código mediante las estructuras de control, que pueden ser las condicionales, los bucles, etc.
+
+
